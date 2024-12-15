@@ -1,1 +1,1 @@
-# asteroids
+Asteroids is my first Pygame project. My goal is to take what Boot has me create and in the future turn it into a fleshed out Asteroids remake. 
